@@ -89,8 +89,12 @@
 //     }
 // }
 // console.log(names)
-const a = ['salom, dunyo, qanday', 12, true];
-console.log(a.reverse())
 
+// const names = ['ahrorjon', 'doniyor', 'samandarjon', 'abubakir', 'davidjon']
+
+// for ( let i = 0; i < names.lenght; i++) {
+//     if (!names[i].includes('jon')) continue
+//     console.log(names[i])
+// }
 
 
